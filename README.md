@@ -12,6 +12,10 @@ $ cp ./zig-out/bin/osc52b ~/.local/bin/www-browser
 $ env -i PATH=$PATH xdg-open http://example.com/
 🌏 http://example.com/
 $ # `http://example.com/` will have been copied to the clipboard.
+$ # or
+$ BROWSER=~/.local/bin/www-browser gh repo view -w
+🌏 https://github.com/yskszk63/osc52b
+$
 ```
 
 ## Terminals
