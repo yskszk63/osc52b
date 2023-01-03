@@ -27,4 +27,4 @@ $ # `http://example.com/` will have been copied to the clipboard.
 
 ## License
 
-[MIT](License)
+[MIT](LICENSE)
